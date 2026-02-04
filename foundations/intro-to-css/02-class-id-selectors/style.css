@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.primera,
+.segunda {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+#único {
+    color: #0000b9;
+    font-size: 36px;
+}
+
+.segunda {
+    font-size: 24px;
+}
+
+#otro-único {
+    background-color: #94fa94;
+    font-size: 24px;
+    font-weight: bold;
+}
